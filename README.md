@@ -99,8 +99,8 @@ Currently exploring how to maximize the potential of **LLMs** through agent tool
 ## 📋 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhugoemcruz&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhugoemcruz&theme=tokyonight&title_color=A78BFA" width="95%"/>
 </div>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vhugoemcruz&theme=tokyonight" width="31.66%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vhugoemcruz&theme=tokyonight" width="31.66%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vhugoemcruz&theme=tokyonight&utcOffset=-3" width="31.66%"/></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vhugoemcruz&theme=tokyonight&title_color=A78BFA" width="31.66%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vhugoemcruz&theme=tokyonight&title_color=A78BFA" width="31.66%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vhugoemcruz&theme=tokyonight&utcOffset=-3&title_color=A78BFA" width="31.66%"/></div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
