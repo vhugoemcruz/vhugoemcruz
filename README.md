@@ -21,56 +21,69 @@ Currently exploring how to maximize the potential of **LLMs** through agent tool
 
 ## 🛠️ Tech Stack
 
-### Back-end
-<div>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
-  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=173647"/></a>
-</div>
+<table width="100%" border="0"><tr>
+<td width="50%" valign="top">
 
-### Full-stack
-<div>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-</div>
+### 🟠 Back-end
+<a href="https://docs.oracle.com/en/java/" target="_blank"><img height="28" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img height="28" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-security" target="_blank"><img height="28" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/></a>
+<a href="https://maven.apache.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/></a>
+<a href="https://swagger.io/" target="_blank"><img height="28" src="https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=173647"/></a>
 
-### Front-end
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-</div>
+</td>
+<td width="50%" valign="top">
 
-### Mobile
-<div>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/></a>
-</div>
+### 🔷 Full-stack
+<a href="https://nextjs.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 
-### Database
-<div>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-</div>
+</td>
+</tr><tr>
+<td width="50%" valign="top">
 
-### DevOps & Tools
-<div>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-</div>
+### ⚛️ Front-end
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://react.dev/" target="_blank"><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
-### AI
-<div>
-  <a href="https://mcpservers.org/" target="_blank"><img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/></a>
-  <a href="https://github.com/github/spec-kit" target="_blank"><img src="https://img.shields.io/badge/SpecKit-8B5CF6?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
-  <a href="https://openspec.dev/" target="_blank"><img src="https://img.shields.io/badge/OpenSpec-6D28D9?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile
+<a href="https://reactnative.dev/" target="_blank"><img height="28" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://expo.dev/" target="_blank"><img height="28" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/></a>
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database
+<a href="https://www.postgresql.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Tools
+<a href="https://www.docker.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://git-scm.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linux.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+
+</td>
+</tr><tr>
+<td colspan="2" valign="top">
+
+### 🧠 AI
+<a href="https://mcpservers.org/" target="_blank"><img height="28" src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/></a>
+<a href="https://github.com/github/spec-kit" target="_blank"><img height="28" src="https://img.shields.io/badge/SpecKit-8B5CF6?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
+<a href="https://openspec.dev/" target="_blank"><img height="28" src="https://img.shields.io/badge/OpenSpec-6D28D9?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
+
+</td>
+</tr></table>
 
 ---
 
